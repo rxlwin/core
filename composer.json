@@ -12,7 +12,7 @@
     		"functions.php"
     	],
     	"psr-4":{
-    		"rxlin\\core\\":""
+    		"rxlwin\\core\\":""
     	}
     }
 }
