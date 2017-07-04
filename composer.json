@@ -9,7 +9,7 @@
     "require": {},
     "autoload":{
     	"files":[
-    		"rxlwin/core/functions.php"
+    		"functions.php"
     	],
     	"psr-4":{
     		"rxlin\\core\\":""
