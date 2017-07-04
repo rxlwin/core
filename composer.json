@@ -1,0 +1,18 @@
+{
+    "name": "rxlwin/core",
+    "authors": [
+        {
+            "name": "rxlwin",
+            "email": "40367288@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"files":[
+    		"rxlwin/core/functions.php"
+    	],
+    	"psr-4":{
+    		"rxlin\\core\\":""
+    	}
+    }
+}
