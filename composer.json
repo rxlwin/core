@@ -6,7 +6,9 @@
             "email": "40367288@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+		"filp/whoops": "^2.0@dev"
+	},
     "autoload":{
     	"files":[
     		"functions.php"
